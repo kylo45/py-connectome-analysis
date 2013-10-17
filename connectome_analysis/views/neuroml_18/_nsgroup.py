@@ -1,7 +1,7 @@
 # .\neuroml\_nsgroup.py
 # -*- coding: utf-8 -*-
 # PyXB bindings for NGM:38f6b4a17cef677a41e02589f8782bfe714fd0a1
-# Generated 2013-09-19 16:53:37.913000 by PyXB version 1.2.2
+# Generated 2013-10-11 13:58:41.927000 by PyXB version 1.2.3
 # Group contents:
 # Namespace http://morphml.org/biophysics/schema [xmlns:bio]
 # Namespace http://morphml.org/channelml/schema [xmlns:cml]
@@ -16,7 +16,7 @@ import pyxb.binding
 import pyxb.utils.utility
 
 # Unique identifier for bindings created at the same time
-_GenerationUID = pyxb.utils.utility.UniqueIdentifier('urn:uuid:b2b49440-2186-11e3-b32c-10bf480cb10f')
+_GenerationUID = pyxb.utils.utility.UniqueIdentifier('urn:uuid:869d53cf-32af-11e3-8e1e-001fbc00ed03')
 
 # Import bindings for schemas in group
 import pyxb.binding.datatypes
